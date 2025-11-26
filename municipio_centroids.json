@@ -1,0 +1,524 @@
+{
+  "AGUADA": {
+    "orig": "AGUADA",
+    "mpio": "AGUADA",
+    "lat": 6.182208476447883,
+    "lon": -73.53038540905288
+  },
+  "ALBANIA": {
+    "orig": "ALBANIA",
+    "mpio": "ALBANIA",
+    "lat": 5.778073390662766,
+    "lon": -73.8284597354676
+  },
+  "ARATOCA": {
+    "orig": "ARATOCA",
+    "mpio": "ARATOCA",
+    "lat": 6.71676658522054,
+    "lon": -73.01162696965005
+  },
+  "BARBOSA": {
+    "orig": "BARBOSA",
+    "mpio": "BARBOSA",
+    "lat": 5.955617327177398,
+    "lon": -73.62345229230657
+  },
+  "BARICHARA": {
+    "orig": "BARICHARA",
+    "mpio": "BARICHARA",
+    "lat": 6.647062543408988,
+    "lon": -73.2151846630855
+  },
+  "BARRANCABERMEJA": {
+    "orig": "BARRANCABERMEJA",
+    "mpio": "BARRANCABERMEJA",
+    "lat": 7.054074557877321,
+    "lon": -73.7821164605652
+  },
+  "BETULIA": {
+    "orig": "BETULIA",
+    "mpio": "BETULIA",
+    "lat": 7.013204058147616,
+    "lon": -73.38743520844245
+  },
+  "CABRERA": {
+    "orig": "CABRERA",
+    "mpio": "CABRERA",
+    "lat": 6.562543673469556,
+    "lon": -73.25034892249003
+  },
+  "CALIFORNIA": {
+    "orig": "CALIFORNIA",
+    "mpio": "CALIFORNIA",
+    "lat": 7.353288084126767,
+    "lon": -72.92634432625414
+  },
+  "CAPITANEJO": {
+    "orig": "CAPITANEJO",
+    "mpio": "CAPITANEJO",
+    "lat": 6.520200094884295,
+    "lon": -72.6743520259307
+  },
+  "CARCASI": {
+    "orig": "CARCASÍ",
+    "mpio": "CARCASÍ",
+    "lat": 6.659675273787899,
+    "lon": -72.56968433893891
+  },
+  "CEPITA": {
+    "orig": "CEPITÁ",
+    "mpio": "CEPITÁ",
+    "lat": 6.752465533065519,
+    "lon": -72.92924629030028
+  },
+  "CERRITO": {
+    "orig": "CERRITO",
+    "mpio": "CERRITO",
+    "lat": 6.903923172534567,
+    "lon": -72.6453632444754
+  },
+  "CHARALA": {
+    "orig": "CHARALÁ",
+    "mpio": "CHARALÁ",
+    "lat": 6.195551946443678,
+    "lon": -73.15401065480586
+  },
+  "CHARTA": {
+    "orig": "CHARTA",
+    "mpio": "CHARTA",
+    "lat": 7.258964401041483,
+    "lon": -72.98787879966979
+  },
+  "CHIMA": {
+    "orig": "CHIMA",
+    "mpio": "CHIMA",
+    "lat": 6.37267718122589,
+    "lon": -73.41476120767425
+  },
+  "CHIPATA": {
+    "orig": "CHIPATÁ",
+    "mpio": "CHIPATÁ",
+    "lat": 6.067944657880139,
+    "lon": -73.63239131677493
+  },
+  "CIMITARRA": {
+    "orig": "CIMITARRA",
+    "mpio": "CIMITARRA",
+    "lat": 6.409729609983171,
+    "lon": -74.17030426870559
+  },
+  "CONCEPCION": {
+    "orig": "CONCEPCIÓN",
+    "mpio": "CONCEPCIÓN",
+    "lat": 6.784531168934418,
+    "lon": -72.60571610904383
+  },
+  "CONFINES": {
+    "orig": "CONFINES",
+    "mpio": "CONFINES",
+    "lat": 6.3556206934577535,
+    "lon": -73.23985271831035
+  },
+  "RIONEGRO": {
+    "orig": "RIONEGRO",
+    "mpio": "RIONEGRO",
+    "lat": 7.474226084737034,
+    "lon": -73.37246417200224
+  },
+  "SABANA DE TORRES": {
+    "orig": "SABANA DE TORRES",
+    "mpio": "SABANA DE TORRES",
+    "lat": 7.406542199775017,
+    "lon": -73.57131807374688
+  },
+  "SAN ANDRES": {
+    "orig": "SAN ANDRÉS",
+    "mpio": "SAN ANDRÉS",
+    "lat": 6.796483062926234,
+    "lon": -72.81613202340532
+  },
+  "SAN BENITO": {
+    "orig": "SAN BENITO",
+    "mpio": "SAN BENITO",
+    "lat": 6.101681204141681,
+    "lon": -73.52749050330267
+  },
+  "SAN GIL": {
+    "orig": "SAN GIL",
+    "mpio": "SAN GIL",
+    "lat": 6.550778765047126,
+    "lon": -73.11887911125669
+  },
+  "SAN JOAQUIN": {
+    "orig": "SAN JOAQUÍN",
+    "mpio": "SAN JOAQUÍN",
+    "lat": 6.459879822592834,
+    "lon": -72.85471883043833
+  },
+  "SAN JOSE DE MIRANDA": {
+    "orig": "SAN JOSÉ DE MIRANDA",
+    "mpio": "SAN JOSÉ DE MIRANDA",
+    "lat": 6.629400184931927,
+    "lon": -72.73976422727256
+  },
+  "SAN MIGUEL": {
+    "orig": "SAN MIGUEL",
+    "mpio": "SAN MIGUEL",
+    "lat": 6.56812154134277,
+    "lon": -72.64322496804193
+  },
+  "SAN VICENTE DE CHUCURI": {
+    "orig": "SAN VICENTE DE CHUCURÍ",
+    "mpio": "SAN VICENTE DE CHUCURÍ",
+    "lat": 6.8942923464177355,
+    "lon": -73.5390033362372
+  },
+  "SANTA BARBARA": {
+    "orig": "SANTA BÁRBARA",
+    "mpio": "SANTA BÁRBARA",
+    "lat": 6.9880847109021325,
+    "lon": -72.89608933423082
+  },
+  "SANTA HELENA DEL OPON": {
+    "orig": "SANTA HELENA DEL OPÓN",
+    "mpio": "SANTA HELENA DEL OPÓN",
+    "lat": 6.408907340221348,
+    "lon": -73.58206608873769
+  },
+  "SIMACOTA": {
+    "orig": "SIMACOTA",
+    "mpio": "SIMACOTA",
+    "lat": 6.648100440098582,
+    "lon": -73.69011693450297
+  },
+  "SOCORRO": {
+    "orig": "SOCORRO",
+    "mpio": "SOCORRO",
+    "lat": 6.4620882408034905,
+    "lon": -73.2443600089441
+  },
+  "SUAITA": {
+    "orig": "SUAITA",
+    "mpio": "SUAITA",
+    "lat": 6.114763045695345,
+    "lon": -73.36621182860151
+  },
+  "SUCRE": {
+    "orig": "SUCRE",
+    "mpio": "SUCRE",
+    "lat": 5.983203734126011,
+    "lon": -73.95936235391693
+  },
+  "SURATA": {
+    "orig": "SURATÁ",
+    "mpio": "SURATÁ",
+    "lat": 7.475402063331322,
+    "lon": -72.9877996588763
+  },
+  "TONA": {
+    "orig": "TONA",
+    "mpio": "TONA",
+    "lat": 7.170891098825919,
+    "lon": -72.93970443293833
+  },
+  "VALLE DE SAN JOSE": {
+    "orig": "VALLE DE SAN JOSÉ",
+    "mpio": "VALLE DE SAN JOSÉ",
+    "lat": 6.434578918932974,
+    "lon": -73.109971709623
+  },
+  "VELEZ": {
+    "orig": "VÉLEZ",
+    "mpio": "VÉLEZ",
+    "lat": 6.220565422436419,
+    "lon": -73.70244956114205
+  },
+  "VETAS": {
+    "orig": "VETAS",
+    "mpio": "VETAS",
+    "lat": 7.322219563009837,
+    "lon": -72.88156900496767
+  },
+  "VILLANUEVA": {
+    "orig": "VILLANUEVA",
+    "mpio": "VILLANUEVA",
+    "lat": 6.685867326175931,
+    "lon": -73.16396916022288
+  },
+  "ZAPATOCA": {
+    "orig": "ZAPATOCA",
+    "mpio": "ZAPATOCA",
+    "lat": 6.8346267053366265,
+    "lon": -73.27975978623098
+  },
+  "JORDAN": {
+    "orig": "JORDÁN",
+    "mpio": "JORDÁN",
+    "lat": 6.7137797172395315,
+    "lon": -73.09961318121987
+  },
+  "LA BELLEZA": {
+    "orig": "LA BELLEZA",
+    "mpio": "LA BELLEZA",
+    "lat": 5.910232645707692,
+    "lon": -74.05072489331013
+  },
+  "LANDAZURI": {
+    "orig": "LANDÁZURI",
+    "mpio": "LANDÁZURI",
+    "lat": 6.331501720824873,
+    "lon": -73.81868089928867
+  },
+  "LA PAZ": {
+    "orig": "LA PAZ",
+    "mpio": "LA PAZ",
+    "lat": 6.2173743696696455,
+    "lon": -73.62977195142771
+  },
+  "LEBRIJA": {
+    "orig": "LEBRIJA",
+    "mpio": "LEBRIJA",
+    "lat": 7.204060063101941,
+    "lon": -73.29138097391167
+  },
+  "LOS SANTOS": {
+    "orig": "LOS SANTOS",
+    "mpio": "LOS SANTOS",
+    "lat": 6.812162934437221,
+    "lon": -73.10785085711441
+  },
+  "MACARAVITA": {
+    "orig": "MACARAVITA",
+    "mpio": "MACARAVITA",
+    "lat": 6.51374530285743,
+    "lon": -72.58536491923887
+  },
+  "MALAGA": {
+    "orig": "MÁLAGA",
+    "mpio": "MÁLAGA",
+    "lat": 6.7202223485807275,
+    "lon": -72.7384109144678
+  },
+  "MATANZA": {
+    "orig": "MATANZA",
+    "mpio": "MATANZA",
+    "lat": 7.348778318688795,
+    "lon": -73.05438997331294
+  },
+  "MOGOTES": {
+    "orig": "MOGOTES",
+    "mpio": "MOGOTES",
+    "lat": 6.492532315439759,
+    "lon": -72.95834772424716
+  },
+  "MOLAGAVITA": {
+    "orig": "MOLAGAVITA",
+    "mpio": "MOLAGAVITA",
+    "lat": 6.643290559485189,
+    "lon": -72.81916273930827
+  },
+  "OCAMONTE": {
+    "orig": "OCAMONTE",
+    "mpio": "OCAMONTE",
+    "lat": 6.355368857511719,
+    "lon": -73.12211833097838
+  },
+  "OIBA": {
+    "orig": "OIBA",
+    "mpio": "OIBA",
+    "lat": 6.225596216201667,
+    "lon": -73.27961515266009
+  },
+  "ONZAGA": {
+    "orig": "ONZAGA",
+    "mpio": "ONZAGA",
+    "lat": 6.335194547530004,
+    "lon": -72.81205837624954
+  },
+  "PALMAR": {
+    "orig": "PALMAR",
+    "mpio": "PALMAR",
+    "lat": 6.5247539937018635,
+    "lon": -73.28900670946477
+  },
+  "PALMAS DEL SOCORRO": {
+    "orig": "PALMAS DEL SOCORRO",
+    "mpio": "PALMAS DEL SOCORRO",
+    "lat": 6.3917501070888205,
+    "lon": -73.28273174333953
+  },
+  "PARAMO": {
+    "orig": "PÁRAMO",
+    "mpio": "PÁRAMO",
+    "lat": 6.416631130696065,
+    "lon": -73.17148231947878
+  },
+  "PINCHOTE": {
+    "orig": "PINCHOTE",
+    "mpio": "PINCHOTE",
+    "lat": 6.513892625667324,
+    "lon": -73.17570986336548
+  },
+  "PUENTE NACIONAL": {
+    "orig": "PUENTE NACIONAL",
+    "mpio": "PUENTE NACIONAL",
+    "lat": 5.831129905570026,
+    "lon": -73.67841815283963
+  },
+  "PUERTO PARRA": {
+    "orig": "PUERTO PARRA",
+    "mpio": "PUERTO PARRA",
+    "lat": 6.685278856436223,
+    "lon": -73.95761255784353
+  },
+  "PUERTO WILCHES": {
+    "orig": "PUERTO WILCHES",
+    "mpio": "PUERTO WILCHES",
+    "lat": 7.5771607259486915,
+    "lon": -73.78383435617764
+  },
+  "CONTRATACION": {
+    "orig": "CONTRATACIÓN",
+    "mpio": "CONTRATACIÓN",
+    "lat": 6.303116610997397,
+    "lon": -73.50211527264493
+  },
+  "COROMORO": {
+    "orig": "COROMORO",
+    "mpio": "COROMORO",
+    "lat": 6.234735779234051,
+    "lon": -72.98176802470158
+  },
+  "CURITI": {
+    "orig": "CURITÍ",
+    "mpio": "CURITÍ",
+    "lat": 6.618344598008983,
+    "lon": -73.01872450909417
+  },
+  "EL CARMEN DE CHUCURI": {
+    "orig": "EL CARMEN DE CHUCURI",
+    "mpio": "EL CARMEN DE CHUCURI",
+    "lat": 6.664260001696442,
+    "lon": -73.56475287601958
+  },
+  "EL GUACAMAYO": {
+    "orig": "EL GUACAMAYO",
+    "mpio": "EL GUACAMAYO",
+    "lat": 6.253547976586364,
+    "lon": -73.5359115059989
+  },
+  "EL PLAYON": {
+    "orig": "EL PLAYÓN",
+    "mpio": "EL PLAYÓN",
+    "lat": 7.52428472128424,
+    "lon": -73.18158191583382
+  },
+  "ENCINO": {
+    "orig": "ENCINO",
+    "mpio": "ENCINO",
+    "lat": 6.079061223670608,
+    "lon": -73.06206664883344
+  },
+  "ENCISO": {
+    "orig": "ENCISO",
+    "mpio": "ENCISO",
+    "lat": 6.658241150459404,
+    "lon": -72.68027938940443
+  },
+  "FLORIAN": {
+    "orig": "FLORIÁN",
+    "mpio": "FLORIÁN",
+    "lat": 5.801106290591612,
+    "lon": -73.95524930750953
+  },
+  "GALAN": {
+    "orig": "GALÁN",
+    "mpio": "GALÁN",
+    "lat": 6.67181099358388,
+    "lon": -73.32467124299824
+  },
+  "GAMBITA": {
+    "orig": "GÁMBITA",
+    "mpio": "GÁMBITA",
+    "lat": 5.924383557719759,
+    "lon": -73.31939933582179
+  },
+  "GUACA": {
+    "orig": "GUACA",
+    "mpio": "GUACA",
+    "lat": 6.943434099887992,
+    "lon": -72.82369873316824
+  },
+  "GUADALUPE": {
+    "orig": "GUADALUPE",
+    "mpio": "GUADALUPE",
+    "lat": 6.2332782476356225,
+    "lon": -73.40977445251137
+  },
+  "GUAPOTA": {
+    "orig": "GUAPOTÁ",
+    "mpio": "GUAPOTÁ",
+    "lat": 6.319299865051612,
+    "lon": -73.33115275162557
+  },
+  "GUAVATA": {
+    "orig": "GUAVATÁ",
+    "mpio": "GUAVATÁ",
+    "lat": 5.944894844313846,
+    "lon": -73.72173670728917
+  },
+  "GUEPSA": {
+    "orig": "GÜEPSA",
+    "mpio": "GÜEPSA",
+    "lat": 6.0333738735537334,
+    "lon": -73.57899508757738
+  },
+  "HATO": {
+    "orig": "HATO",
+    "mpio": "HATO",
+    "lat": 6.559878298829741,
+    "lon": -73.36178840526955
+  },
+  "JESUS MARIA": {
+    "orig": "JESÚS MARÍA",
+    "mpio": "JESÚS MARÍA",
+    "lat": 5.8542882339268445,
+    "lon": -73.82342217459387
+  },
+  "GIRON": {
+    "orig": "GIRÓN",
+    "mpio": "GIRÓN",
+    "lat": 7.036680245298026,
+    "lon": -73.24872523569533
+  },
+  "FLORIDABLANCA": {
+    "orig": "FLORIDABLANCA",
+    "mpio": "FLORIDABLANCA",
+    "lat": 7.079704597717851,
+    "lon": -73.0679925029952
+  },
+  "BOLIVAR": {
+    "orig": "BOLÍVAR",
+    "mpio": "BOLÍVAR",
+    "lat": 6.093691313437234,
+    "lon": -74.11340191657749
+  },
+  "EL PENON": {
+    "orig": "EL PEÑÓN",
+    "mpio": "EL PEÑÓN",
+    "lat": 6.096726217483942,
+    "lon": -73.9271822883388
+  },
+  "PIEDECUESTA": {
+    "orig": "PIEDECUESTA",
+    "mpio": "PIEDECUESTA",
+    "lat": 6.962456082109276,
+    "lon": -73.00517172522251
+  },
+  "BUCARAMANGA": {
+    "orig": "BUCARAMANGA",
+    "mpio": "BUCARAMANGA",
+    "lat": 7.155833543735338,
+    "lon": -73.11156997119552
+  }
+}
