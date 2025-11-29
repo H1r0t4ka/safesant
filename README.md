@@ -1,5 +1,7 @@
 # 🛡️ Tablero Predictivo de Seguridad — SafeSant
 
+![Imagen de Portada](docs/portada.png)
+
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.33+-EE2E31?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Next.js](https://img.shields.io/badge/Next.js-13+-000000?logo=next.js&logoColor=white)](https://nextjs.org)
 [![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma&logoColor=white)](https://prisma.io)
@@ -25,6 +27,15 @@ Proyecto integral que combina un tablero geoespacial interactivo y un chatbot co
 - Modo futuro (t+1) con “municipios en alto riesgo” y lista descargable.
 - Filtros interactivos: modalidad, fuente, tipo de delito, municipio, año/mes.
 - Chatbot “Gabi” accesible desde el portal web (ruta `/chatbot`).
+
+---
+
+## 🤖 Modelo de Machine Learning
+- Objetivo: clasificar riesgo (`riesgo` o `riesgo_futuro`) por municipio/tiempo.
+- Algoritmo: Árbol de Decisión (`max_depth=8`, `min_samples_leaf=10`).
+- Entrenamiento:
+  - Si hay coordenadas: usa `latitud`, `longitud`, `anio`, `mes`, `dia`, `dia_semana`.
+  - Si no: convierte categóricas (`MUNICIPIO`, `DEPARTAMENTO`, `fuente`, `tipo_delito`) a dummies y selecciona columnas numéricas.
 
 ---
 
@@ -117,14 +128,6 @@ AZURE_AD_TENANT_ID=...
 - Next.js: Vercel (incluye `vercel.json` con crons de ejemplo).
 - Sitio en producción: https://santanderdigitalseguro.vercel.app/
 
----
-
-## 📜 Licencia
-- Pendiente de definir.
-
----
-
-## �️ Portada
 - Dashboard (Streamlit):
 
 ![Tablero de Seguridad — Santander](docs/dashboard.png)
@@ -135,7 +138,12 @@ AZURE_AD_TENANT_ID=...
 
 ---
 
-## �📧 Autores
+## 📜 Licencia
+- Pendiente de definir.
+
+---
+
+## 📧 Autores
 - Andres Felipe Gonzalez Rodriguez — [LinkedIn](https://www.linkedin.com/in/afgonzalezr1993/) | [andrfgr@gmail.com](mailto:andrfgr@gmail.com)
-- Arellys De Jesus Correa Rodriguez — [LinkedIn](https://www.linkedin.com/in/arellys-de-jes%C3%BAs-correa-rodr%C3%ADguez-745b0434/) | [arellys.correa@unad.edu.co](mailto:arellys.correa@gmail.com)
+- Arellys De Jesus Correa Rodriguez — [LinkedIn](https://www.linkedin.com/in/arellys-de-jes%C3%BAs-correa-rodr%C3%ADguez-745b0434/) | [arellys.correa@gmail.com](mailto:arellys.correa@gmail.com)
 - Juan Manuel Quevedo Gonzalez — [LinkedIn](https://www.linkedin.com/in/juan-manuel-quevedo-gonzalez-324442194/) | [juanm_quevedo@hotmail.com](mailto:juanm_quevedo@hotmail.com)
